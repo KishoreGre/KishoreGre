@@ -1,32 +1,31 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" alt="Tech Animation"/>
   
-  # 👋 Hey there, Digital Explorer!
+  # 👋 Hey there, Kishore here!
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 </div>
 
-## 🚀 Quick Facts
+## 🚀 About me
 
 ```python
 class AboutMe:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Kishore R"
         self.education = "AI & Data Science"
-        self.interests = ["Computer Vision", "Deep Learning", "Robotics"]
-        self.currently_learning = "Advanced Computer Vision"
-        self.fun_fact = "I can solve a Rubik's cube in under 2 minutes! 🎯"
+        self.interests = ["Artificial Intelligence", "Deep Learning" , "Building Practical Solutions"]
+        self.fun_fact = "System shutdown executes the final process: life terminates, and meaning returns null"
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print(f"Hi, I'm {self.name}! Thanks for dropping by!")
 ```
 
 ## 🎯 What I'm Up To
 
-- 🔭 Working on Computer Vision projects
+- 🔭 Working on cool projects
 - 🌱 Learning advanced Deep Learning techniques
-- 💡 Open for collaborations in AI and Data Science
-- 📫 Reach me at: your.email@example.com
+- 💡 Open for collaborations in AI 
+- 📫 Reach me at: kishoreradha31@gmail.com
 
 ## 🛠️ Tech Stack 
 
@@ -57,5 +56,5 @@ class AboutMe:
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding gif"/>
   
-  ### "The only way to do great work is to love what you do." - Steve Jobs
+
 </div>
