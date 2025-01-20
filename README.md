@@ -56,7 +56,7 @@ class AboutMe:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3drbDIwYmR0dHhpZWZwMWZ1d3p6dmw0ZDJ4aGhmY3J2MXh6N3FiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="400" alt="Coding gif"/>
   
 
 </div>
