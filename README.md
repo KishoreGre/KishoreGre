@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" alt="Tech Animation"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xpYTdibnp0cjBhcDN3a3g5dmEwa3ZlMWJ4Z3c2eHhnajR5cnR4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Tech Animation"/>
   
   # 👋 Hey there, Kishore here!
   
