@@ -29,6 +29,8 @@ class AboutMe:
 
 ## 🛠️ Tech Stack 
 
+
+- Not limited to but also.....
 <div align="center">
 
 | Category | Technologies |
